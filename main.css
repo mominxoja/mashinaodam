@@ -1,0 +1,30 @@
+.container{
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid;
+}
+.s{
+    align-items: center;
+    display: flex;
+}
+input{
+    height: 10px;
+    width:  50px;
+}
+.in{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: center;
+    border: 2px solid;
+    text-align: center;
+    align-items: center;
+}
+li{
+    border: 2px solid;
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
